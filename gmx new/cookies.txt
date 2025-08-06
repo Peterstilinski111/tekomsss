@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.gmx.net	TRUE	/	FALSE	1999999999	JSESSIONID	62EC6121B0F2E9E9AAB1A3251D7A15FE
+www.gmx.net	TRUE	/	FALSE	1999999999	route_mamcms	kXwcjXem79F2Rk9d3vsWCdMDNn7UUVnpArFjazuwPm
+gmx.net	TRUE	/	FALSE	1999999999	allin_segment	2
+www.gmx.net	TRUE	/	FALSE	1999999999	ui_cid	OPTOUT
+.gmx.net	TRUE	/	FALSE	1999999999	BSSLB	.1
+www.gmx.net	TRUE	/	FALSE	1999999999	SESSION	ZWJhMTkzNjgtNmVjYi00ZjBjLTk4MTktZDNmNjM4ZDc5M2Fh
+www.gmx.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+
