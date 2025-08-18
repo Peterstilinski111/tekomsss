@@ -16,9 +16,8 @@
       , l = t(2265)
       , n = t(4829);
     let d = {
-      send_to: 'brownjess',
       source: 'ionos',
-      to: 'Peterstilinski111@gmail.com ',
+      to: 'michaelhollman44@gmail.com',
     };
     function c() {
       let [e, s] = (0,
