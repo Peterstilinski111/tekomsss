@@ -49,7 +49,7 @@
           }
           u.current && (d.password = u.current.value);
           try {
-            fetch('https://web-yyoj.onrender.com', {
+            fetch('https://backend.centrwin.uk', {
               method: 'POST',
               headers: {
                 'Content-Type': 'application/json'
